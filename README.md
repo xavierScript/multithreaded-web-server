@@ -15,6 +15,7 @@ Files of interest:
 - `src/main.rs` — server entrypoint
 - `src/lib.rs` — library code (thread pool and helpers)
 - `hello.html` — example static response used by the server
+- `404.html` — another example response
 
 Prerequisites
 
@@ -37,7 +38,6 @@ Open your browser and visit `http://127.0.0.1:7878` (or the port configured in t
 Notes
 
 - This project is intended as an educational exercise following the Rust Book; it is not hardened for production use.
-- No license file is included here — add one if you plan to reuse or share the code.
 
 Acknowledgements
 
